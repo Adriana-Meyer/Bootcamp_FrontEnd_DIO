@@ -1,4 +1,4 @@
-const entradas = [9];
+const entradas = [ 6,4,3,8,5 ];
 let i = 0;
 
 function gets() {
